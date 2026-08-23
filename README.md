@@ -6,13 +6,13 @@ This project presents an interactive **Amazon Prime Content Analysis Dashboard**
 
 ## 🎯 Objectives
 
-* Analyze the distribution of Movies and TV Shows
-* Identify popular content genres
-* Analyze content ratings and categories
-* Understand content growth over the years
-* Analyze content distribution across countries
-* Compare Movies and TV Shows
-* Provide interactive insights through Power BI
+* To analyze the distribution of Movies and TV Shows
+* To identify popular content genres
+* To analyze content ratings and categories
+* To understand content trends over the years
+* To analyze content distribution across countries
+* To provide interactive insights for content analysis and decision-making
+
 
 ## 🛠️ Tools & Technologies
 
